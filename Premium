@@ -1,0 +1,175 @@
+#EXTINF:-1 group-title="Channel TV Premium",EGG
+http://210.210.155.66/h/h22/01.m3u8
+
+
+#EXTINF:-1 group-title="Channel TV Premium",eGG NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Fight Sport
+http://210.210.155.66/h/h05/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Animax 1
+http://45.126.83.51/dr9445/h/h144/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Animax 2
+http://rr1.dens.tv/h/h144/index10.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Animax 3
+http://210.210.155.35/dr9445/h/h144/index10.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Ani Plus
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",My Kidz 1
+http://210.210.155.66/h/h98/index.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",My Kidz 2
+http://45.126.83.51/uq2663/h/h98/index.m3u8
+
+
+#EXTINF:-1 group-title="Channel TV Premium",Cartoon Network
+http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Channel TV Premium",AXN
+http://210.210.155.66/h/h141/01.m3u8
+
+
+#EXTINF:-1 group-title="Channel TV Premium",KIX
+http://210.210.155.66/h/h07/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",HITS MOVIES 1
+http://45.126.83.51/uq2663/h/h37/index2.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",HITS MOVIES 2
+http://210.210.155.66/h/h37/index.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",HITS MOVIES 3
+http://210.210.155.35/uq2663/h/h37/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Blue Ant Extreme
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Blue Ant Entertainment
+http://210.210.155.35/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",K+ 1
+http://210.210.155.66/h/h08/index2.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",K+ 2
+http://45.126.83.51/uq2663/h/h08/index2.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",ONE
+http://210.210.155.66/h/h143/index2.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",GEM
+http://210.210.155.35/uq2663/h/h19/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Cinema World 1
+http://210.210.155.66/h/h04/01.m3u8
+
+http://rr.dens.tv/h/h04/index2.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Celestial Movies 1
+http://45.126.83.51/qwr9ew/s/s33/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Celestial Movies 2
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Zee Bioskop
+http://45.126.83.51/qwr9ew/s/s32/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Thrill 1
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Thrill 2
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Style HD
+http://210.210.155.35/uq2663/h/h01/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Bloomberg
+http://210.210.155.35/uq2663/h/h03/01.m3u8
+
+#EXTINF:-1 group-title="Film TV",FILMY
+http://210.210.155.35/uq2663/h/h154/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="Film TV",Telenovela Channel
+http://210.210.155.35/uq2663/h/h153/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="Film TV",DUBAI International
+http://210.210.155.35/uq2663/h/h152/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="Film TV",Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+
+
+#EXTINF:-1 group-title="Film TV",MNX
+http://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
+
+
+#EXTINF:-1 group-title="Film TV",One TV
+http://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8 
+
+
+
+#EXTINF:0 tvg-id="" tvg-name="HBO.id" tvg-logo="/storage/emulated/0/logo_tv/hbo-logo.jpg" group-title="Film TV",HBO
+https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
+
+#EXTINF:0 tvg-name="HBOHits.id" tvg-logo="/storage/emulated/0/logo_tv/HBO_Signature.png" group-title="Film TV",HBO Signature
+https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
+
+#EXTINF:0 tvg-name="HBOFamily.id" tvg-logo="/storage/emulated/0/logo_tv/HBO_Family.png" group-title="Film TV",HBO Family
+https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
+
+
+#EXTINF:0 tvg-name="HBOSignature.id" tvg-logo="/storage/emulated/0/logo_tv/HBOHits.png" group-title="Film TV",HBO Hits
+https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
+
+#EXTINF:0 tvg-name="HBOSignature.id" tvg-logo="CMAX4.png" group-title="Film TV",Cinemax
+https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
+
+#EXTINF:0 tvg-name="HBO.id" tvg-logo="/storage/emulated/0/logo_tv/redbyhbo.png" group-title="Film TV",Red By HBO
+https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="/storage/emulated/0/logo_tv/kix.png" group-title="Film TV",KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Film TV",Thrill 3
+http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Film TV",Thrill 4
+http://rr2.dens.tv/s/s34/index1.m3u8
+
+#EXTINF:-1 group-title="Film TV" tvg-logo="/storage/emulated/0/logo_tv/mycinema.jpeg",My Cinema 1
+http://210.210.155.66/h/h90/index.m3u8
+
+#EXTINF:-1 group-title="Film TV",My Cinema 2
+http://210.210.155.35/uq2663/h/h90/index2.m3u8
+
+#EXTINF:-1 group-title="Film TV",My Cinema 3
+http://45.126.83.51/uq2663/h/h90/index1.m3u8
+
+#EXTINF:-1 tvg-logo="/storage/emulated/0/logo_tv/Cinema_World.jpg" group-title="Film TV",My Cinema 4
+http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Film TV",Cinema World 2
+http://210.210.155.66/h/h04/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Film TV",Cinema World 3
+http://rr.dens.tv/h/h04/index10.m3u8
+
+
+#EXTINF:-1 group-title="Film TV",Cinema World 4
+http://45.126.83.51/uq2663/h/h04/index2.m3u8
+
+
+#EXTINF:-1 group-title="Film TV",HBO
+http://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
+
+
+#EXTINF:-1 group-title="Film TV",WAU
+http://nn.geo.joj.sk/hls/wau-360.m3u8
