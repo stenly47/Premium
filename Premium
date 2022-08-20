@@ -2,6 +2,7 @@
 http://210.247.248.113:25461/live/mana123/mana123/6.m3u8
 
 #EXTINF:-1 group-title="Channel TV Premium",TRANSTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e0268ef7e5a44f541a7cbde7626ef57566
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Channel TV Premium",CNBC Indonesia
@@ -32,10 +33,8 @@ https://iptv.lancartech.co.id:443/live/iptvyuli/66778899/130094.m3u8
 #EXTINF:-1 group-title="Channel TV Premium",METRO TV2
 https://iptv.lancartech.co.id:443/live/iptvyuli/66778899/11.m3u8
 
-
 #EXTINF:-1 group-title="Channel TV Premium",NET TV
-https://iptv.lancartech.co.id:443/live/iptvyuli/66778899/2.m3u8
-
+http://corner-tv.web.id:8080/madrid321/madrid123/11.m3u8
 
 #EXTINF:-1 group-title="Channel TV Premium",SCTV
 https://iptv.lancartech.co.id:443/live/iptvyuli/66778899/4.m3u8
