@@ -31,8 +31,8 @@ https://iptv.lancartech.co.id:443/live/iptvyuli/66778899/14.m3u8
 https://iptv.lancartech.co.id:443/live/iptvyuli/66778899/130094.m3u8
 
 
-#EXTINF:-1 group-title="Channel TV Premium",METRO TV2
-https://iptv.lancartech.co.id:443/live/iptvyuli/66778899/11.m3u8
+#EXTINF:-1 group-title="Channel TV Premium",SCTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 
 #EXTINF:-1 group-title="Channel TV Premium",NET TV
 http://corner-tv.web.id:8080/madrid321/madrid123/11.m3u8
@@ -55,8 +55,8 @@ http://45.126.83.51/dr9445/h/h15/01.m3u8
 #EXTINF:-1 group-title="Channel TV Premium",Blue Ant Entertainment
 http://210.210.155.35/dr9445/h/h16/01.m3u8
 
-#EXTINF:-1 group-title="Channel TV Premium",K+ 1
-http://210.210.155.66/h/h08/index2.m3u8
+#EXTINF:-1 group-title="Channel TV Premium",ANTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
 
 #EXTINF:-1 group-title="Channel TV Premium",K+ 2
 http://45.126.83.51/uq2663/h/h08/index2.m3u8
