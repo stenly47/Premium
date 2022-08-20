@@ -1,51 +1,51 @@
-#EXTINF:-1 group-title="Channel TV Premium",EGG
-http://210.210.155.66/h/h22/01.m3u8
+#EXTINF:-1 group-title="Channel TV Premium",ANTV
+https://iptv.lancartech.co.id:443/live/iptvyuli/66778899/9.m3u8
 
 
-#EXTINF:-1 group-title="Channel TV Premium",eGG NETWORK
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+#EXTINF:-1 group-title="Channel TV Premium",CITRA DRAMA
+https://iptv.lancartech.co.id:443/live/iptvyuli/66778899/129421.m3u8
 
-#EXTINF:-1 group-title="Channel TV Premium",Fight Sport
-http://210.210.155.66/h/h05/01.m3u8
+#EXTINF:-1 group-title="Channel TV Premium",CNBC Indonesia
+https://iptv.lancartech.co.id:443/live/iptvyuli/66778899/13.m3u8
 
-#EXTINF:-1 group-title="Channel TV Premium",Animax 1
-http://45.126.83.51/dr9445/h/h144/01.m3u8
+#EXTINF:-1 group-title="Channel TV Premium",CNBC Indonesia2
+https://iptv.lancartech.co.id:443/live/iptvyuli/66778899/15.m3u8
 
-#EXTINF:-1 group-title="Channel TV Premium",Animax 2
-http://rr1.dens.tv/h/h144/index10.m3u8
+#EXTINF:-1 group-title="Channel TV Premium",GTV
+https://iptv.lancartech.co.id:443/live/iptvyuli/66778899/54418.m3u8
 
-#EXTINF:-1 group-title="Channel TV Premium",Animax 3
-http://210.210.155.35/dr9445/h/h144/index10.m3u8
+#EXTINF:-1 group-title="Channel TV Premium",INDOSIAR
+https://iptv.lancartech.co.id:443/live/iptvyuli/66778899/8.m3u8
 
-#EXTINF:-1 group-title="Channel TV Premium",Ani Plus
-http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="Channel TV Premium",iNews
+https://iptv.lancartech.co.id:443/live/iptvyuli/66778899/129417.m3u8
 
-#EXTINF:-1 group-title="Channel TV Premium",My Kidz 1
-http://210.210.155.66/h/h98/index.m3u8
+#EXTINF:-1 group-title="Channel TV Premium",KOMPAS TV
+https://iptv.lancartech.co.id:443/live/iptvyuli/66778899/14.m3u8
 
-#EXTINF:-1 group-title="Channel TV Premium",My Kidz 2
-http://45.126.83.51/uq2663/h/h98/index.m3u8
-
-
-#EXTINF:-1 group-title="Channel TV Premium",Cartoon Network
-http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+#EXTINF:-1 group-title="Channel TV Premium",METRO TV
+https://iptv.lancartech.co.id:443/live/iptvyuli/66778899/130094.m3u8
 
 
-#EXTINF:-1 group-title="Channel TV Premium",AXN
-http://210.210.155.66/h/h141/01.m3u8
+#EXTINF:-1 group-title="Channel TV Premium",METRO TV2
+https://iptv.lancartech.co.id:443/live/iptvyuli/66778899/11.m3u8
 
 
-#EXTINF:-1 group-title="Channel TV Premium",KIX
-http://210.210.155.66/h/h07/01.m3u8
+#EXTINF:-1 group-title="Channel TV Premium",NET TV
+https://iptv.lancartech.co.id:443/live/iptvyuli/66778899/2.m3u8
 
-#EXTINF:-1 group-title="Channel TV Premium",HITS MOVIES 1
-http://45.126.83.51/uq2663/h/h37/index2.m3u8
 
-#EXTINF:-1 group-title="Channel TV Premium",HITS MOVIES 2
-http://210.210.155.66/h/h37/index.m3u8
+#EXTINF:-1 group-title="Channel TV Premium",SCTV
+https://iptv.lancartech.co.id:443/live/iptvyuli/66778899/4.m3u8
 
-#EXTINF:-1 group-title="Channel TV Premium",HITS MOVIES 3
-http://210.210.155.35/uq2663/h/h37/01.m3u8
+#EXTINF:-1 group-title="Channel TV Premium",TRANS7
+https://iptv.lancartech.co.id:443/live/iptvyuli/66778899/6.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",TRANS TV
+https://iptv.lancartech.co.id:443/live/iptvyuli/66778899/5.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",TVONE
+https://iptv.lancartech.co.id:443/live/iptvyuli/66778899/10.m3u8
 
 #EXTINF:-1 group-title="Channel TV Premium",Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/01.m3u8
