@@ -1,5 +1,2 @@
-#EXTINF:0 tvg-name="HBOSignature.id" tvg-logo="CMAX4.png" group-title="MOVIES",Cinemax
-https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
-
-#EXTINF:-1 tvg-logo="/storage/emulated/0/logo_tv/Cinema_World.jpg" group-title="MOVIES",My Cinema 4
-http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:-1 group-title="MOVIES",CINEMAXFULL
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b1200000.m3u8?token=bukuantv
