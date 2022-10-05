@@ -1,2 +1,5 @@
 #EXTINF:0 tvg-name="HBOSignature.id" tvg-logo="/storage/emulated/0/logo_tv/HBOHits.png" group-title="MOVIES",HBO Hits
 https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
+
+#EXTINF:0 tvg-name="HBOSignature.id" tvg-logo="CMAX4.png" group-title="MOVIES",Cinemax
+https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
