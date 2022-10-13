@@ -14,7 +14,7 @@ https://live1.rctiplus.com/RCTI2022.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_.m3u8
 
 #EXTINF:-1 group-title="Channel TV Premium",SCTV
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=sctv&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=sctv&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245','https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJEMEnr38t93lBLsJyx8LXbxyO6uhGy3gmQ&usqp=CAU
 
 #EXTINF:-1 group-title="Channel TV Premium",GTV
 https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
