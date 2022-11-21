@@ -218,3 +218,27 @@ https://dens.seulangatv.com/dr9445/h/h144/01.m3u8?app_type=web&userid=50n13N0v14
 
 #EXTINF:-1 group-title="MOVIES",ANIMAX
 https://dens.seulangatv.com/dr9445/h/h144/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Animax_HD
+
+#EXTINF:-1 group-title="WORLDCUP",LIVE1
+https://live5.thetavideoapi.com/hls/live/2015866/hls_streamer_us_central_0011/stream_4z2btq5qrfb7errkfe47k5gx4_source/chunklist.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP",LIVE2
+https://bl.uma.media/live/407384/HLS/6307840_7\,4280320/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP",LIVE3
+https://maungbodas.tv/play/iptv/m3u/beinmax1.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP",LIVE4
+http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP",LIVE5
+https://cdn6.goprimetime.info:443/feed/202205171929/chpptvhd/index.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP",LIVE6
+http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP",LIVE7
+https://input.futebolgratis.net:8088/hls/livechannel2.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP",LIVE7
+https://maungbodas.tv/play/iptv/m3u/bein1.m3u8
