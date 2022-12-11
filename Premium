@@ -34,9 +34,6 @@ http://210.210.155.35:80/uq2663/h/h08/01.m3u8
 #EXTINF:-1 group-title="MOVIES",ONE
 http://210.210.155.66/h/h143/index2.m3u8
 
-#EXTINF:-1 group-title="Channel TV Premium",GEM
-http://210.210.155.35/uq2663/h/h19/01.m3u8
-
 #EXTINF:-1 group-title="MOVIES",Cinema World 1
 http://210.210.155.66/h/h04/01.m3u8
 
