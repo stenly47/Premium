@@ -14,7 +14,7 @@ https://live1.rctiplus.com/RCTI2022.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_.m3u8
 
 #EXTINF:-1 group-title="Channel TV Premium",SCTV1
-http://tvn.x10.mx/1/master-1.m3u8
+https://kmklive-lh.akamaihd.net/i/sctv_live@577566/master.m3u8
 
 #EXTINF:-1 group-title="Channel TV Premium",SCTV2
 https://maungbodas.tv/play/iptv/m3u/sctv.m3u8
