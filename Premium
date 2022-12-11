@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="Channel TV Premium",MNCTV
-https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
-
 #EXTINF:-1 group-title="Channel TV Premium",TRANSTV
 http://live-birutv.com/play/transtv.m3u8
 
@@ -10,29 +7,11 @@ http://live-birutv.com/play/trans7.m3u8
 #EXTINF:-1 group-title="Channel TV Premium",RCTI
 https://live1.rctiplus.com/RCTI2022.m3u8
 
-#EXTINF:-1 group-title="Channel TV Premium",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_.m3u8
-
 #EXTINF:-1 group-title="Channel TV Premium",SCTV1
-http://tvn.x10.mx/1/master-1.m3u8','https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJEMEnr38t93lBLsJyx8LXbxyO6uhGy3gmQ&usqp=CAU
-
-#EXTINF:-1 group-title="Channel TV Premium",SCTV2
-https://maungbodas.tv/play/iptv/m3u/sctv.m3u8
-
-#EXTINF:-1 group-title="Channel TV Premium",SCTV3
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=sctv&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
-
-#EXTINF:-1 group-title="Channel TV Premium",GTV
-https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
-
-#EXTINF:-1 group-title="Channel TV Premium",INDOSIAR
-http://tvn.x10.mx:80/1/master.m3u8?dl','https://www.dropbox.com/s/qefmcuctb7b33xn/INDOSIAR_Logo.png?dl=1
+http://tvn.x10.mx/1/master-1.m3u8
 
 #EXTINF:-1 group-title="Channel TV Premium",INDOSIAR2
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
-
-#EXTINF:-1 group-title="Channel TV Premium",iNews
-https://miraeindaeyo.masuk.id/joss/masuk.m3u8?token2=koceng634&channel=inews
 
 #EXTINF:-1 group-title="Channel TV Premium",KOMPAS TV
 http://live-birutv.com/play/kompastv.m3u8
@@ -40,26 +19,11 @@ http://live-birutv.com/play/kompastv.m3u8
 #EXTINF:-1 group-title="Channel TV Premium",METRO TV
 http://edge.metrotvnews.com/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Channel TV Premium",NET TV
-http://corner-tv.web.id:8080/madrid321/madrid123/11.m3u8
-
-#EXTINF:-1 group-title="Channel TV Premium",TV ONE
-http://tvn.x10.mx:80/1/master-25.m3u8?dl=1
-
-#EXTINF:-1 group-title="Channel TV Premium",KOMPAS TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559446503011668def857b1c03bafabba51
-
-#EXTINF:-1 group-title="Channel TV Premium",RTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
-
 #EXTINF:-1 group-title="CENTERTAIMENT",Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 group-title="CENTERTAIMENT",Blue Ant Entertainment
 http://210.210.155.35/dr9445/h/h16/01.m3u8
-
-#EXTINF:-1 group-title="Channel TV Premium",ANTV
-http://tvn.x10.mx:80/1/master-15.m3u8?dl=1
 
 #EXTINF:-1 group-title="MOVIES",CINEMAXFULL
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b1200000.m3u8?token=bukuantv
