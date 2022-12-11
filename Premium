@@ -13,8 +13,11 @@ https://live1.rctiplus.com/RCTI2022.m3u8
 #EXTINF:-1 group-title="Channel TV Premium",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_.m3u8
 
-#EXTINF:-1 group-title="Channel TV Premium",SCTV
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=sctv&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245','https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJEMEnr38t93lBLsJyx8LXbxyO6uhGy3gmQ&usqp=CAU
+#EXTINF:-1 group-title="Channel TV Premium",SCTV1
+http://tvn.x10.mx/1/master-1.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",SCTV2
+https://maungbodas.tv/play/iptv/m3u/sctv.m3u8
 
 #EXTINF:-1 group-title="Channel TV Premium",GTV
 https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
@@ -34,14 +37,8 @@ http://live-birutv.com/play/kompastv.m3u8
 #EXTINF:-1 group-title="Channel TV Premium",METRO TV
 http://edge.metrotvnews.com/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Channel TV Premium",SCTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
-
 #EXTINF:-1 group-title="Channel TV Premium",NET TV
 http://corner-tv.web.id:8080/madrid321/madrid123/11.m3u8
-
-#EXTINF:-1 group-title="Channel TV Premium",SCTV
-https://iptv.lancartech.co.id:443/live/iptvyuli/66778899/4.m3u8
 
 #EXTINF:-1 group-title="Channel TV Premium",TV ONE
 http://tvn.x10.mx:80/1/master-25.m3u8?dl=1
