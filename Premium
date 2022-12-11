@@ -11,8 +11,10 @@ https://live1.rctiplus.com/RCTI2022.m3u8
 https://tvn.x10.mx/1/master-1.m3u8
 
 #EXTINF:-1 group-title="Channel TV Premium",SCTV2
-https://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJEMEnr38t93lBLsJyx8LXbxyO6uhGy3gmQ&usqp=CAU
+https://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51 ",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJEMEnr38t93lBLsJyx8LXbxyO6uhGy3gmQ&usqp=CAU
+
+#EXTINF:-1 group-title="Channel TV Premium",TVONE
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
 #EXTINF:-1 group-title="Channel TV Premium",SCTV3
 https://maungbodas.tv/play/iptv/m3u/sctv.m3u8
