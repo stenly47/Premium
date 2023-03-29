@@ -20,7 +20,7 @@ https://maungbodas.tv/play/iptv/m3u/sctv.m3u8
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
 #EXTINF:-1 group-title="Channel TV Premium",INDOSIAR
-http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8
 
 #EXTINF:-1 group-title="Channel TV Premium",ANTV
 ttp://id2.indostreamingtv.com/live/antv/index.m3u8
