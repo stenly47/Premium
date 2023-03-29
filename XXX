@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml,https://iptv-org.github.io/epg/guides/en/nowplayer.now.com.xml,https://iptv-org.github.io/epg/guides/en/unifi.com.my.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml,https://iptv-org.github.io/epg/guides/my/unifi.com.my.xml,https://iptv-org.github.io/epg/guides/pt/rtp.pt.xml"
 #EXTINF:-1 tvg-id="ADiTV.id" tvg-logo="https://i.imgur.com/b4IDBG7.png" group-title="Undefined",ADiTV (720p) [Not 24/7]
-https://vod.mycamtv.net/1.m3u8
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8
 #EXTINF:-1 tvg-id="AhsanTV.id" tvg-logo="https://i.imgur.com/dZdUbYd.png" group-title="Religious" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Ahsan TV (360p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch4.m3u8
